@@ -25,14 +25,16 @@ CareerBee is a React Native mobile application built using Expo Router that allo
 
 1. Sign Up Page
    <p >
-     <img src="https://github.com/Nikitakandwal/career-bee/assets/98966392/d2db9e88-be47-434b-9e9e-91c5c2333dd3" alt="Sign Up Page" width="300">
+     <img src="https://github.com/Nikitakandwal/career-bee/assets/98966392/a781541a-bf2f-4937-8f6c-bfc081016688" alt="Sign Up Page" width="300">
    </p>
-
 2. Home Page
    <p >
-     <img src="https://github.com/Nikitakandwal/career-bee/assets/98966392/b8e22f0c-538b-447f-a26a-7844ec0f0017" alt="Home Page" width="300">
-   </p>
+     <img src="https://github.com/Nikitakandwal/career-bee/assets/98966392/31627f11-519e-4000-a200-b424cca3a26f7" alt="Home Page" width="300">
+   </p> 
 
 
 ## Video Demo
+
+
+https://github.com/Nikitakandwal/career-bee/assets/98966392/e04a5126-9a71-4285-950a-9c5f0f4f67f2
 
